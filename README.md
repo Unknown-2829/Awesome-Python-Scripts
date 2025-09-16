@@ -199,6 +199,6 @@ Remember to star the repo if you love the scripts~ :wink:
 - Only One Commit per PR is Adviced.
 
 # If you like the project:
-- **Star this Repo - [Awesome Python Scripts](https://github.com/Unknow-2829/Awesome-Python-Scripts)**
+- **Star this Repo - [Awesome Python Scripts](https://github.com/Unknown-2829/Awesome-Python-Scripts)**
 
 - **Follow me on GitHub - [Unknown-2829](https://github.com/Unknown-2829)**
