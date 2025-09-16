@@ -199,15 +199,6 @@ Remember to star the repo if you love the scripts~ :wink:
 - Only One Commit per PR is Adviced.
 
 # If you like the project:
-- **Star this Repo - [Awesome Python Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)**
+- **Star this Repo - [Awesome Python Scripts](https://github.com/Unknow-2829/Awesome-Python-Scripts)**
 
-- **Follow me on GitHub - [Ayush Bhardwaj](https://github.com/hastagAB)**
-
-## Want to Connect with Me?
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="30px" alt="Linkedin">](https://www.linkedin.com/in/hastagab/)
-[<img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" height="30px" alt="X/Twitter">](https://twitter.com/HastagAB)
-[<img src="https://w7.pngwing.com/pngs/561/460/png-transparent-fb-facebook-facebook-logo-social-media-icon-thumbnail.png" height="30px" alt="Facebook">](https://www.facebook.com/SirHastagAB)
-[<img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" height="31px" alt="Instagram">](https://www.instagram.com/sirhastagab/)
-
-
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
+- **Follow me on GitHub - [Unknown-2829](https://github.com/Unknown-2829)**
